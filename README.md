@@ -1,34 +1,34 @@
 # InnovaX Agritech - Smart Farm Management System
 
-## 🌾 Project Overview
+##  Project Overview
 
 **InnovaX Agritech** is an innovative agricultural technology platform designed to empower farmers with data-driven insights and smart management tools. Our Smart Farm Management System enables farmers to track crops, monitor weather conditions, manage resources efficiently, and make informed decisions to improve productivity and sustainability.
 
 ---
 
-## 🎯 Mission Statement
+##  Mission Statement
 
 To empower farmers with innovative, data-driven solutions that improve productivity, efficiency, and sustainability in agriculture.
 
 ---
 
-## 🚀 Vision Statement
+##  Vision Statement
 
 To become a leading agri-tech provider transforming agriculture in Africa through smart, accessible, and sustainable technologies.
 
 ---
 
-## 📋 Objectives
+##  Objectives
 
-- ✅ Improve farm productivity
-- ✅ Reduce operational costs
-- ✅ Provide real-time farm monitoring
-- ✅ Enable informed decision-making
-- ✅ Promote sustainable farming practices
+- Improve farm productivity
+- Reduce operational costs
+-  Provide real-time farm monitoring
+-  Enable informed decision-making
+-  Promote sustainable farming practices
 
 ---
 
-## 💡 MVP Features
+##  MVP Features
 
 1. **Farmer Registration & Authentication** - Secure login and account management
 2. **Farm Profile Management** - Create and manage multiple farm profiles
@@ -40,7 +40,7 @@ To become a leading agri-tech provider transforming agriculture in Africa throug
 
 ---
 
-## 🏗️ System Architecture
+##  System Architecture
 
 ### Three-Tier Architecture
 
@@ -80,7 +80,7 @@ To become a leading agri-tech provider transforming agriculture in Africa throug
 
 ---
 
-## 📊 Database Design
+##  Database Design
 
 ### Entity Relationship Diagram
 
@@ -179,7 +179,7 @@ CREATE TABLE Weather (
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 InnovaX-agritech/
@@ -233,7 +233,7 @@ InnovaX-agritech/
 
 ---
 
-## 🚀 Quick Start Guide
+##  Quick Start Guide
 
 ### Prerequisites
 - Node.js (v14 or higher)
@@ -277,47 +277,47 @@ InnovaX-agritech/
 
 ---
 
-## 📅 Development Roadmap
+##  Development Roadmap
 
 ### Phase 1: Foundation (Q2 2026)
-- ✅ Project Setup & Architecture
-- ✅ Database Design & Implementation
-- ✅ Authentication System
-- ✅ Basic CRUD Operations
+- Project Setup & Architecture
+- Database Design & Implementation
+- Authentication System
+- Basic CRUD Operations
 
 ### Phase 2: Core Features (Q3 2026)
-- ✅ Crop Tracking Module
-- ✅ Weather Integration
-- ✅ Expense & Revenue Tracking
-- ✅ Mobile Application Launch
+- Crop Tracking Module
+- Weather Integration
+- Expense & Revenue Tracking
+-  Mobile Application Launch
 
 ### Phase 3: Advanced Features (Q4 2026)
-- ✅ Data Analytics & Reporting
-- ✅ IoT Device Integration
-- ✅ AI-Powered Recommendations
-- ✅ Multi-language Support
+- Data Analytics & Reporting
+- IoT Device Integration
+-  AI-Powered Recommendations
+-  Multi-language Support
 
 ### Phase 4: Expansion (Q1 2027)
-- ✅ Community Features
-- ✅ Knowledge Base
-- ✅ Third-party Integrations
-- ✅ Market Expansion
+- Community Features
+-  Knowledge Base
+-  Third-party Integrations
+- Market Expansion
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 
 We welcome contributions from the community! Please refer to [CONTRIBUTING.md](./CONTRIBUTING.md) for guidelines.
 
 ---
 
-## 📄 License
+## License
 
 This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
 
 ---
 
-## 📞 Contact & Support
+## Contact & Support
 
 For questions or support, please reach out to us at:
 - **Email**: info@innovax-agritech.com
@@ -325,15 +325,15 @@ For questions or support, please reach out to us at:
 
 ---
 
-## 🌍 Our Commitment
+ Our Commitment
 
 InnovaX Agritech is committed to:
-- 🌱 Sustainable farming practices
-- 🤝 Supporting small-scale farmers
-- 💚 Environmental conservation
-- 🔬 Continuous innovation
-- 📈 Transparent and ethical operations
+- Sustainable farming practices
+-  Supporting small-scale farmers
+-  Environmental conservation
+- Continuous innovation
+-  Transparent and ethical operations
 
 ---
 
-**Let's revolutionize agriculture together! 🌾🚀**
+Let's revolutionize agriculture together!
